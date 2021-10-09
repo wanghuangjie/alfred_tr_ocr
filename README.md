@@ -1,0 +1,2 @@
+# alfred_tr_ocr
+配合tr_ocr的docker实现本地ocr
